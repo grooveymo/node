@@ -1,4 +1,4 @@
 node
 ====
 
-experiments in node
+Investigate how to spawn processes in node
